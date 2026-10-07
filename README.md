@@ -1,6 +1,6 @@
 # TRABAJO-INTEGRADOR-FINAL-DIPLOMATURA-EN-CIENCIA-DE-DATOS-Y-ANALISIS-AVANZADO-UTN
 
-# Evaluación de la tasa ajustada por riesgo de sepsis posoperatoria en hospitales de California periodo 2019–2023 en el Contexto de la Pandemia Covid-19
+# Evaluación de la tasa ajustada por riesgo de sepsis posoperatoria en hospitales de California periodo 2019–2023 en el contexto de la Pandemia Covid-19
 
 
 **Proyecto Final Integrador** · Diplomatura en Ciencia de Datos y Análisis Avanzado  
