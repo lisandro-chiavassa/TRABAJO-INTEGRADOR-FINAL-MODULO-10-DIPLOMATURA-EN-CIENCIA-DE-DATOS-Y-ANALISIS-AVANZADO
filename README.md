@@ -8,7 +8,7 @@ Universidad Tecnológica Nacional · Facultad Regional Buenos Aires · Módulo 1
 **Autor:** Lisandro Chiavassa · Octubre de 2026
 
 ## Pregunta
-¿La tasa ajustada por riesgo de sepsis posoperatoria permite comparar hospitales muy distintos de manera suficientemente justa como para decidir dónde auditar?
+¿La tasa ajustada por riesgo de sepsis posoperatoria permite comparar hospitales muy distintos de manera suficientemente justa como para decidir dónde y como auditar?
 
 ## Dataset
 - **Fuente:** *Postoperative Sepsis Outcomes for Elective Surgeries in California Hospitals*, California Department of Health Care Access and Information (HCAI), California Open Data.
